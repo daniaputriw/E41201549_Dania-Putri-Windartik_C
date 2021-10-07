@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello Word!</string>
+
+    <string-array name="pilihangolongan">
+        <item>--Pilih--</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <string-array name="pilihanagama">
+        <item>--Pilih--</item>
+        <item>Islam</item>
+        <item>Katholik</item>
+        <item>Buddha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+</resources>
