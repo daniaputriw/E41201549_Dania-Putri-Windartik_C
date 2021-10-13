@@ -13,6 +13,4 @@ Tugas Android Studio (Selection Widget)
 Tugas Android Studio (Fragment)
 
 
-<img width="302" alt="12" src="https://user-images.githubusercontent.com/75106722/137066007-3441420e-7c3f-47c3-bd3e-dd25e07cfa35.PNG">
-<img width="302" alt="13" src="https://user-images.githubusercontent.com/75106722/137066010-e69972f6-c2f1-4da1-a7ff-a7012af55214.PNG">
-<img width="302" alt="14" src="https://user-images.githubusercontent.com/75106722/137066012-362c4878-90ac-4e6f-8475-f1696c5b2c0d.PNG">
+<img width="302" alt="12" src="https://user-images.githubusercontent.com/75106722/137066007-3441420e-7c3f-47c3-bd3e-dd25e07cfa35.PNG"> <img width="302" alt="13" src="https://user-images.githubusercontent.com/75106722/137066010-e69972f6-c2f1-4da1-a7ff-a7012af55214.PNG"> <img width="302" alt="14" src="https://user-images.githubusercontent.com/75106722/137066012-362c4878-90ac-4e6f-8475-f1696c5b2c0d.PNG">
