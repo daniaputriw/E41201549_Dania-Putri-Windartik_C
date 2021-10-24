@@ -26,3 +26,16 @@ Tugas Android Studio (Intent Explicit)
 
 
 <img width="302" alt="4" src="https://user-images.githubusercontent.com/75106722/137348029-0ae1ac8f-50a7-4384-b514-d9a49a8edab7.PNG"> <img width="302" alt="5" src="https://user-images.githubusercontent.com/75106722/137348034-123f9c5c-a1d9-4a19-854c-f5ffeeda1477.PNG"> <img width="302" alt="6" src="https://user-images.githubusercontent.com/75106722/137348040-d0085a0b-a215-48fb-82a4-6b58c94b79e9.PNG">
+
+
+Tugas Android Studio (Management File)
+
+
+<img width="314" alt="1" src="https://user-images.githubusercontent.com/75106722/138596660-33894214-4997-44e9-b0fb-ae14168738b5.PNG"> <img width="314" alt="2" src="https://user-images.githubusercontent.com/75106722/138596662-d201284d-e5c8-458c-abc0-48788981976a.PNG">
+![3](https://user-images.githubusercontent.com/75106722/138596716-8fc6e2fc-a2ae-4d0f-bb8c-96ff4b88a8e3.png) <img width="314" alt="4" src="https://user-images.githubusercontent.com/75106722/138596658-673b40a3-7ae1-4b2e-8577-36ef5af0b653.PNG">
+
+
+Tugas Android Studio (Implementasi SQLite)
+
+
+<img width="302" alt="6" src="https://user-images.githubusercontent.com/75106722/138596733-42029458-4193-43d4-90a6-ce1dfb05d402.PNG"> <img width="302" alt="5" src="https://user-images.githubusercontent.com/75106722/138596731-c38c6964-c880-4937-a564-7355564a2f96.PNG">
