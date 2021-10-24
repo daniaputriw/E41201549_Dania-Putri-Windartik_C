@@ -14,3 +14,15 @@ Tugas Android Studio (Fragment)
 
 
 <img width="302" alt="12" src="https://user-images.githubusercontent.com/75106722/137066007-3441420e-7c3f-47c3-bd3e-dd25e07cfa35.PNG"> <img width="302" alt="13" src="https://user-images.githubusercontent.com/75106722/137066010-e69972f6-c2f1-4da1-a7ff-a7012af55214.PNG"> <img width="302" alt="14" src="https://user-images.githubusercontent.com/75106722/137066012-362c4878-90ac-4e6f-8475-f1696c5b2c0d.PNG">
+
+
+Tugas Android Studio (Intent Implicit)
+
+
+<img width="302" alt="1" src="https://user-images.githubusercontent.com/75106722/137347870-6e1160ae-ad04-48b9-a8f4-597be32d94e0.PNG"> <img width="302" alt="2" src="https://user-images.githubusercontent.com/75106722/137347877-e041dea5-0fab-43e4-9f86-79a11f657f82.PNG"> <img width="302" alt="3" src="https://user-images.githubusercontent.com/75106722/137347857-ed283679-b8e4-4c0a-8c27-20a2b8be4267.PNG">
+
+
+Tugas Android Studio (Intent Explicit)
+
+
+<img width="302" alt="4" src="https://user-images.githubusercontent.com/75106722/137348029-0ae1ac8f-50a7-4384-b514-d9a49a8edab7.PNG"> <img width="302" alt="5" src="https://user-images.githubusercontent.com/75106722/137348034-123f9c5c-a1d9-4a19-854c-f5ffeeda1477.PNG"> <img width="302" alt="6" src="https://user-images.githubusercontent.com/75106722/137348040-d0085a0b-a215-48fb-82a4-6b58c94b79e9.PNG">
